@@ -1,2 +1,2 @@
 # Desktop-Brightness-App
-Basic adjust screen brightness with python
+Adjust screen brightness with python
